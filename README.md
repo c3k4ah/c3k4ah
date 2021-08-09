@@ -1,1 +1,5 @@
-![Dominick's github stats](https://github-readme-stats.vercel.app/api/?username=c3k4ah&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut,+World!;Je+me+nomme+Dominick+Randriamanantena.;Etudiant+en+IT!&center=true&size=27">
+  </a>
+</h1>
