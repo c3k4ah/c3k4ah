@@ -15,6 +15,7 @@ const user = {
   langages: [ "dart", "python", "php", "js", "C", "html", "css",],
   mesEditeurs: [ "VS Code", "vim", "nano","android studio",],
   mesOutilsDesign: ["canva","gravit","figma","photoshop",]
+  système: ["Ubuntu","Windows",],
 }
 ```
 </h3>
