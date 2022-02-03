@@ -21,6 +21,6 @@ const c3k4h = {
 ```
 </h3>
 
-<h1 align="center" >
+<p align="center" >
 https://github-readme-streak-stats.herokuapp.com/?user=c3k4ah
-</h1>
+</p>
