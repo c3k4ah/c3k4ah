@@ -18,9 +18,9 @@ const c3k4h = {
   mesOutilsDesign: ["canva","gravit","figma","photoshop",],
   système: ["Ubuntu","Windows",],
 }
+  <div>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=c3k4ah&theme=leafy&date_format=j%20M%5B%20Y%5D&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF&background=ffffff00&hide_border=true" alt="GitHub Stats" /> <br/><br/>
+  </p>
+</div>
 ```
-</h3>
-
-<p align="center" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=c3k4ah" >
-</p>
