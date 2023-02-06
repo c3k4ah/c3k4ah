@@ -39,7 +39,7 @@
 ```js
 const c3k4h = {
   user_name: "dominick randriamanantena grégoire",
-  niveau: "L2 en informatique",
+  niveau: "L3 en informatique",
   spécialisation: ["ui-ux design","front-end","dev_mobile",],
   fav_theme: [ "dark", "monokai", ],
   
