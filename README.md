@@ -23,8 +23,8 @@ class Dominick {
 
   Dominick({
     this.fullName = "dominick randriamanantena grégoire",
-    this.pseudos = ["cekah","c3k4h"],
     this.level = "L3 en informatique",
+    this.pseudos = const ["cekah","c3k4h"],
     this.specializations = const ["front-end","dev_mobile","ui-ux design"],
     this.favoriteThemes = const ["dark", "monokai"],
     this.hobbies = const ["programmation", "design", "dessin", "jeu de reflexion"],
