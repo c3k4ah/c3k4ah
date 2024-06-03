@@ -28,7 +28,7 @@ class Dominick {
     this.specializations = const ["front-end","dev_mobile","ui-ux design"],
     this.favoriteThemes = const ["dark", "monokai"],
     this.hobbies = const ["programmation", "design", "dessin", "jeu de reflexion"],
-    this.langages = const ["dart", "go", "php", "C", "html", "css"],
+    this.langages = const ["dart", "go", "C","C#", "html", "css"],
     this.framework = const ["flutter","bootstrap","pocketbase","firebase"],
     this.ide = const ["VS Code", "vim", "nano","android studio"],
     this.designTools = const ["canva","gravit","figma","photoshop","adobe XD"],
@@ -59,7 +59,5 @@ class Dominick {
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
