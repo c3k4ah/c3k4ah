@@ -41,9 +41,9 @@ class Dominick {
 
 - **Widget Customization**: Proficient in creating custom widgets tailored to specific design requirements. I have experience building reusable and efficient components that enhance user interfaces and improve app performance.
 
-- **RESTful APIs**: Skilled in integrating RESTful APIs to communicate with backend services, fetch data, and ensure smooth, real-time app functionality. I use HTTP packages and error handling best practices to maintain a reliable connection between the app and server.
+- **RESTful APIs**: Skilled in integrating RESTful APIs to communicate with backend services, fetch data, and ensure smooth, real-time app functionality. I use HTTP and Dio packages and error handling best practices to maintain a reliable connection between the app and server.
 
-- **State Management**: Expertise in managing state effectively in Flutter applications using popular tools like Provider, Riverpod, and Bloc. I understand the importance of state management in maintaining the app's responsiveness and performance.
+- **State Management**: Expertise in managing state effectively in Flutter applications using popular tools (mainly with Flutter Bloc). I understand the importance of state management in maintaining the app's responsiveness and performance.
 
 - **Firebase Integration**: Experienced in integrating Firebase services, including Firestore, Authentication, and Cloud Messaging, to add backend functionality such as data storage, user authentication, and push notifications to apps.
 
@@ -53,7 +53,7 @@ class Dominick {
 
 - **Debugging**: Proficient in using Flutter's powerful debugging tools like the Dart DevTools, breakpoints, and logging to identify and fix issues quickly, ensuring a smooth user experience and bug-free application.
 
-- **Continuous Integration and Deployment (CI/CD)**: Knowledgeable in setting up CI/CD pipelines using tools like GitHub Actions and Codemagic to automate testing, build, and deployment processes, ensuring quick and reliable delivery of updates.
+- **Continuous Integration and Deployment (CI/CD)**: Knowledgeable in setting up CI/CD pipelines using tools like GitHub Actions to automate build, and deployment processes, ensuring quick and reliable delivery of updates.
 
 - **Responsive Design**: Skilled in creating responsive and adaptive UI layouts that work seamlessly across different devices and screen sizes, providing a consistent user experience regardless of the platform.
 
