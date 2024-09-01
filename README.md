@@ -59,7 +59,7 @@ class Dominick {
 
 - **Localization and Internationalization**: Experienced in implementing localization and internationalization in Flutter apps to support multiple languages and regions, making the app accessible to a global audience.
 
-- **...There are still other skills and I would be happy to detail them to you during an interview.**
+- **...There are still more skills and I would be happy to detail them to you during an interview.**
 
 
 
