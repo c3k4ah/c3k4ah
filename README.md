@@ -37,27 +37,29 @@ class Dominick {
 }
 ```
 
-<h3 align="center">Languages and Tools</h3>
+### 🛠️ My Flutter Skills
 
-<p align="center">  
-<a href="https://www.gnu.org/software/bash/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
- <a href="https://www.cprogramming.com/" target="_blank"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank">
- <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://go.dev/" target="_blank"> 
- <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="golang" width="70" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
- </a> <a href="https://www.linux.org/" target="_blank"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+- **Widget Customization**: Proficient in creating custom widgets tailored to specific design requirements. I have experience building reusable and efficient components that enhance user interfaces and improve app performance.
+
+- **RESTful APIs**: Skilled in integrating RESTful APIs to communicate with backend services, fetch data, and ensure smooth, real-time app functionality. I use HTTP packages and error handling best practices to maintain a reliable connection between the app and server.
+
+- **State Management**: Expertise in managing state effectively in Flutter applications using popular tools like Provider, Riverpod, and Bloc. I understand the importance of state management in maintaining the app's responsiveness and performance.
+
+- **Firebase Integration**: Experienced in integrating Firebase services, including Firestore, Authentication, and Cloud Messaging, to add backend functionality such as data storage, user authentication, and push notifications to apps.
+
+- **Package Management**: Well-versed in using Dart's `pub.dev` to manage dependencies and packages efficiently, ensuring that projects stay up-to-date and maintainable. I carefully choose packages that enhance functionality while keeping the app's size and performance in mind.
+
+- **Clean Architecture**: Strong understanding of Clean Architecture principles, ensuring a scalable, maintainable, and testable codebase. I structure projects to separate concerns effectively, following best practices that promote code reuse and improve the overall quality of applications.
+
+- **Debugging**: Proficient in using Flutter's powerful debugging tools like the Dart DevTools, breakpoints, and logging to identify and fix issues quickly, ensuring a smooth user experience and bug-free application.
+
+- **Continuous Integration and Deployment (CI/CD)**: Knowledgeable in setting up CI/CD pipelines using tools like GitHub Actions and Codemagic to automate testing, build, and deployment processes, ensuring quick and reliable delivery of updates.
+
+- **Responsive Design**: Skilled in creating responsive and adaptive UI layouts that work seamlessly across different devices and screen sizes, providing a consistent user experience regardless of the platform.
+
+- **Localization and Internationalization**: Experienced in implementing localization and internationalization in Flutter apps to support multiple languages and regions, making the app accessible to a global audience.
+
+- **...There are still other skills and I would be happy to detail them to you during an interview.**
+
 
 
