@@ -30,7 +30,7 @@ I am passionate about mobile development, currently with Flutter. But also inter
 
 - **`Localization and Internationalization`**: Experienced in implementing localization and internationalization in Flutter apps to support multiple languages and regions, making the app accessible to a global audience.
 
-- **...There are still more skills and I would be happy to detail them to you during an interview. But you can follow the progress of my [flutter roadmap](https://roadmap.sh/flutter?s=674c862a5039431075d58732) OR check [my portfolio](https://www.dominick-rg.me).**
+- **...There are still more skills and I would be happy to detail them to you during an interview. But you can follow the progress of my [flutter roadmap](https://roadmap.sh/flutter?s=674c862a5039431075d58732) OR check [my portfolio](https://c3k4ah.github.io).**
 
 
 
